@@ -1,5 +1,6 @@
 ooo aaaa
 
+s
 
 	adding 
 edit file a.txt 
